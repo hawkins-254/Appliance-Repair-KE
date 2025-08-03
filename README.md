@@ -38,7 +38,9 @@ Appliance_repair_ke/
 
 ## 📸 Screenshots
 
-> *(You can insert screenshots here if available using `![Alt Text](path-to-image)`)*
+![Homepage Desktop](images/screenshot-homepage-desktop.png)
+### 📱 Mobile View
+![Homepage Mobile](images/screenshot-homepage-mobile.png)
 
 ---
 
@@ -54,7 +56,6 @@ Appliance_repair_ke/
 
 ## 🌐 Live Demo
 
-> *(Optional — Add GitHub Pages or Netlify link here)*
 
 ---
 
@@ -77,5 +78,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Hawkins Muchui**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 hawkins@example.com *(optional)*
+📧 hawkinsmuchui@outlook.com
+whatsapp no +254701816437
